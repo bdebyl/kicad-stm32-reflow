@@ -1938,7 +1938,7 @@
     (property "Footprint" "Potentiometer_SMD:Potentiometer_Bourns_3314G_Vertical" (id 2) (at 31.75 55.88 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (id 3) (at 31.75 55.88 0)
+    (property "Datasheet" "https://www.digikey.com/en/products/detail/nidec-copal-electronics/ST4ETB103/738213" (id 3) (at 31.75 55.88 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid b2dd12c8-7e8e-42cc-bd6a-0ba045eb98a3))

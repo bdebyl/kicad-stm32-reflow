@@ -1584,7 +1584,7 @@
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid b3d0ea53-75b5-420b-bfe5-df70c68b1eef)
   )
-  (label "CS0" (at 57.15 175.26 180)
+  (label "CS1" (at 57.15 175.26 180)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 398b0e49-5564-4077-ace1-5b8777b0fc53)
   )
