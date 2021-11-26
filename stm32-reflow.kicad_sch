@@ -76,10 +76,6 @@
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid d5b96643-cedf-47d2-ad9f-e396ad2944c3)
   )
-  (wire (pts (xy 139.7 68.58) (xy 152.4 68.58))
-    (stroke (width 0) (type default) (color 0 0 0 0))
-    (uuid 8074b4c6-a569-4fff-b6a2-45721742e4fc)
-  )
   (wire (pts (xy 139.7 71.12) (xy 152.4 71.12))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 61533c8b-7043-4bcd-a487-78f1130e9633)
@@ -222,10 +218,6 @@
       (effects (font (size 1.27 1.27)) (justify left))
       (uuid e58d2edc-3c5a-4878-90f8-b1ae78704f1b)
     )
-    (pin "R{slash}~{W}" input (at 152.4 68.58 180)
-      (effects (font (size 1.27 1.27)) (justify left))
-      (uuid f41540af-2fe3-43be-9315-fc282879a838)
-    )
     (pin "RS" input (at 152.4 71.12 180)
       (effects (font (size 1.27 1.27)) (justify left))
       (uuid 03dce3e9-062b-41e8-9bb9-992ef525b38d)
@@ -253,10 +245,6 @@
     (pin "E" input (at 139.7 66.04 0)
       (effects (font (size 1.27 1.27)) (justify right))
       (uuid df2977ab-6f95-4c24-b54e-0969a8ba4702)
-    )
-    (pin "R{slash}~{W}" input (at 139.7 68.58 0)
-      (effects (font (size 1.27 1.27)) (justify right))
-      (uuid 6231d210-3863-4d0a-ae7c-f40c1b3ebb46)
     )
     (pin "RS" input (at 139.7 71.12 0)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -516,9 +504,6 @@
     (path "/bd08278b-4287-4daa-92d4-6c7e541ec8a9/285951c6-3708-479e-9613-1585ca65c514"
       (reference "Q1") (unit 1) (value "2N7002") (footprint "Package_TO_SOT_SMD:SOT-23")
     )
-    (path "/bd08278b-4287-4daa-92d4-6c7e541ec8a9/7109660b-bf89-4b81-bf9b-bb7cc1066e21"
-      (reference "Q2") (unit 1) (value "2N7002") (footprint "Package_TO_SOT_SMD:SOT-23")
-    )
     (path "/bd08278b-4287-4daa-92d4-6c7e541ec8a9/29f28fdb-bbef-4971-98bd-9d4774417fc2"
       (reference "Q3") (unit 1) (value "2N7002") (footprint "Package_TO_SOT_SMD:SOT-23")
     )
@@ -567,11 +552,11 @@
     (path "/7ac8cf4b-d76d-4995-806b-88d124e31efd/da102273-1ba8-4374-80d4-9a5b7f21e0c5"
       (reference "R5") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
-    (path "/bd08278b-4287-4daa-92d4-6c7e541ec8a9/a20bfea7-348f-4161-9d7c-d6ccc42890df"
-      (reference "RN1") (unit 1) (value "10k") (footprint "Resistor_THT:R_Array_SIP12")
+    (path "/bd08278b-4287-4daa-92d4-6c7e541ec8a9/e80531bc-e2e7-4719-b9a4-2382e64235f3"
+      (reference "RN1") (unit 1) (value "10k") (footprint "Resistor_THT:R_Array_SIP11")
     )
-    (path "/bd08278b-4287-4daa-92d4-6c7e541ec8a9/1319110e-3cc5-415e-88ce-8fdb7e9cfb40"
-      (reference "RN2") (unit 1) (value "10k") (footprint "Resistor_THT:R_Array_SIP12")
+    (path "/bd08278b-4287-4daa-92d4-6c7e541ec8a9/d1703d80-0d79-4d43-9e52-a4ec2afb81b2"
+      (reference "RN2") (unit 1) (value "10k") (footprint "Resistor_THT:R_Array_SIP11")
     )
     (path "/bd08278b-4287-4daa-92d4-6c7e541ec8a9/b8b1f6f8-bfc5-4cce-b4a8-26a1a9c0853f"
       (reference "RV1") (unit 1) (value "10k") (footprint "Potentiometer_SMD:Potentiometer_Bourns_3314G_Vertical")
