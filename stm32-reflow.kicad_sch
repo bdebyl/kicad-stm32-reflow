@@ -371,6 +371,27 @@
     (path "/de6e3de0-902c-42f6-a583-3abfdd023979/152da6d5-ca5d-4579-be4f-dedc45e3fcff"
       (reference "#PWR038") (unit 1) (value "GND") (footprint "")
     )
+    (path "/de6e3de0-902c-42f6-a583-3abfdd023979/e0cc9fee-d1f0-4cd8-b051-11f0fa3de254"
+      (reference "#PWR039") (unit 1) (value "+3V3") (footprint "")
+    )
+    (path "/de6e3de0-902c-42f6-a583-3abfdd023979/34883536-9f94-4a9a-8611-79812c96e250"
+      (reference "#PWR040") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/de6e3de0-902c-42f6-a583-3abfdd023979/80d7f85c-9fe1-41d6-95dd-794b6dfb0f6f"
+      (reference "#PWR041") (unit 1) (value "+3V3") (footprint "")
+    )
+    (path "/de6e3de0-902c-42f6-a583-3abfdd023979/6d01bc71-c429-4b4e-a6c6-78d19e652f8c"
+      (reference "#PWR042") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/de6e3de0-902c-42f6-a583-3abfdd023979/d02a77c4-82ca-497c-aa67-b1d5d254c99c"
+      (reference "#PWR043") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/de6e3de0-902c-42f6-a583-3abfdd023979/1a9c3c62-9ba0-48eb-9f62-1099d35897c1"
+      (reference "#PWR044") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/de6e3de0-902c-42f6-a583-3abfdd023979/2548e834-9f02-4216-a28b-8d84eabfac72"
+      (reference "#PWR045") (unit 1) (value "+3V3") (footprint "")
+    )
     (path "/de6e3de0-902c-42f6-a583-3abfdd023979/37a78b67-27da-403a-bfc6-ccf5b5f54f32"
       (reference "#PWR0101") (unit 1) (value "GND") (footprint "")
     )
@@ -409,6 +430,15 @@
     )
     (path "/de6e3de0-902c-42f6-a583-3abfdd023979/5b488014-0319-4582-9b0c-618af535970c"
       (reference "C11") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0805_2012Metric")
+    )
+    (path "/de6e3de0-902c-42f6-a583-3abfdd023979/430c449e-5001-4322-8f53-e54d647244fd"
+      (reference "C12") (unit 1) (value "10n") (footprint "Capacitor_SMD:C_0603_1608Metric")
+    )
+    (path "/de6e3de0-902c-42f6-a583-3abfdd023979/0460abe6-59ab-4c5a-845c-bb6de31717d2"
+      (reference "C13") (unit 1) (value "10n") (footprint "Capacitor_SMD:C_0603_1608Metric")
+    )
+    (path "/de6e3de0-902c-42f6-a583-3abfdd023979/a9d2d151-cd10-4f93-8ae8-93164d155102"
+      (reference "C14") (unit 1) (value "10n") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/d4976bf6-6bc8-4e2b-b115-aa152bc34117"
       (reference "FID1") (unit 1) (value "Fiducial") (footprint "Fiducial:Fiducial_0.75mm_Mask2.25mm")
@@ -524,6 +554,21 @@
     (path "/de6e3de0-902c-42f6-a583-3abfdd023979/fb0628be-63e6-48a9-8af6-64856df537d5"
       (reference "R5") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
+    (path "/de6e3de0-902c-42f6-a583-3abfdd023979/4e304f07-f32c-46ae-b8e1-ab482e271b19"
+      (reference "R6") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0603_1608Metric")
+    )
+    (path "/de6e3de0-902c-42f6-a583-3abfdd023979/67e5df5c-17a8-4f5c-b437-7fc08cb6ed2c"
+      (reference "R7") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0603_1608Metric")
+    )
+    (path "/de6e3de0-902c-42f6-a583-3abfdd023979/45e86fc8-4882-4278-a0d7-331b8121f295"
+      (reference "R8") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0603_1608Metric")
+    )
+    (path "/de6e3de0-902c-42f6-a583-3abfdd023979/1be1cf2a-359e-433b-bbb6-5cf487c6ecc2"
+      (reference "R9") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0603_1608Metric")
+    )
+    (path "/de6e3de0-902c-42f6-a583-3abfdd023979/bcf7c8a0-b2ce-4e6f-9dce-550da27d1984"
+      (reference "R10") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0603_1608Metric")
+    )
     (path "/bd08278b-4287-4daa-92d4-6c7e541ec8a9/e80531bc-e2e7-4719-b9a4-2382e64235f3"
       (reference "RN1") (unit 1) (value "10k") (footprint "Resistor_THT:R_Array_SIP11")
     )
@@ -532,6 +577,9 @@
     )
     (path "/bd08278b-4287-4daa-92d4-6c7e541ec8a9/b8b1f6f8-bfc5-4cce-b4a8-26a1a9c0853f"
       (reference "RV1") (unit 1) (value "10k") (footprint "Potentiometer_SMD:Potentiometer_Bourns_3314G_Vertical")
+    )
+    (path "/de6e3de0-902c-42f6-a583-3abfdd023979/04253053-ac8b-4997-b0d2-922252cef3fd"
+      (reference "SW1") (unit 1) (value "EN11-VSM") (footprint "Personal:EN11-VSM1AF20")
     )
     (path "/de6e3de0-902c-42f6-a583-3abfdd023979/7ab72e57-b253-4bc7-8249-e2f16a52280d"
       (reference "U1") (unit 1) (value "STM32F051R4Tx") (footprint "Package_QFP:LQFP-64_10x10mm_P0.5mm")
