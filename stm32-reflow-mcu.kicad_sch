@@ -6,7 +6,8 @@
 
   (title_block
     (title "STM32 Reflow Controller")
-    (date "2021-11-26")
+    (date "2021-11-29")
+    (rev "07684a7")
     (company "de Byl Technologies, LLC")
   )
 
@@ -490,7 +491,7 @@
         (circle (center -3.81 0) (radius 0.254) (stroke (width 0))           (stroke (width 0) (type default) (color 0 0 0 0))
           (fill (type outline))
         )
-        (arc (start -0.381 -2.794) (mid 2.3622 -0.0508) (end -0.381 2.667)
+        (arc (start -0.381 -2.794) (mid 2.3622 -0.0635) (end -0.381 2.667)
           (stroke (width 0.254) (type default) (color 0 0 0 0))
           (fill (type none))
         )

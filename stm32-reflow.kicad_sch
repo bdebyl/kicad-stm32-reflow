@@ -6,7 +6,8 @@
 
   (title_block
     (title "STM32 Reflow Controller")
-    (date "2021-11-26")
+    (date "2021-11-29")
+    (rev "07684a7")
     (company "de Byl Technologies, LLC")
   )
 
